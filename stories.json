@@ -1,0 +1,36 @@
+{"stories":[
+{"id":"a1","lvl":1,"scene":"🐱🌳🔴🔴🔴🦆","s":["Hari ini Kucing Mimi berjalan ke taman.","Di taman ia menemukan tiga bola merah.","Lalu Kucing Mimi bermain bola bersama Bebek Dudu."],"qs":[
+{"q":"Siapa yang berjalan ke taman?","o":[["Kucing Mimi","🐱"],["Anjing Bobi","🐶"],["Burung Piyo","🐦"]],"a":0,"k":"Kucing Mimi"},
+{"q":"Ke mana Kucing Mimi pergi?","o":[["Taman","🌳"],["Pasar","🛒"],["Sekolah","🏫"]],"a":0,"k":"taman"},
+{"q":"Ada berapa bola?","o":[["2","●●"],["3","●●●"],["4","●●●●"]],"a":1,"k":"tiga bola"},
+{"q":"Apa warna bola itu?","o":[["Biru","c:#2457e6"],["Hijau","c:#1e9e5a"],["Merah","c:#e53935"]],"a":2,"k":"merah"},
+{"q":"Siapa teman bermain Kucing Mimi?","o":[["Anjing Bobi","🐶"],["Bebek Dudu","🦆"],["Burung Piyo","🐦"]],"a":1,"k":"Bebek Dudu"}]},
+{"id":"a2","lvl":1,"scene":"👦👩🏖️🪣🪣🏰","s":["Pagi ini Adi pergi ke pantai bersama Ibu.","Adi membawa dua ember biru.","Di pantai Adi membuat istana pasir yang tinggi."],"qs":[
+{"q":"Adi pergi bersama siapa?","o":[["Ibu","👩"],["Ayah","👨"],["Nenek","👵"]],"a":0,"k":"Ibu"},
+{"q":"Ke mana Adi pergi?","o":[["Hutan","🌲"],["Kebun","🥕"],["Pantai","🏖️"]],"a":2,"k":"pantai"},
+{"q":"Ada berapa ember?","o":[["1","●"],["2","●●"],["3","●●●"]],"a":1,"k":"dua ember"},
+{"q":"Apa warna ember itu?","o":[["Kuning","c:#f4c20d"],["Biru","c:#2457e6"],["Hijau","c:#1e9e5a"]],"a":1,"k":"biru"},
+{"q":"Apa yang dibuat Adi di pantai?","o":[["Istana pasir","🏰"],["Perahu","⛵"],["Kue","🎂"]],"a":0,"k":"istana pasir"}]},
+{"id":"b1","lvl":2,"scene":"🐰🏡🥕🥕🥕🥕🥬🍲","s":["Kelinci Lulu bangun pagi sekali.","Ia pergi ke kebun di dekat rumahnya.","Di sana ia memetik empat wortel oranye.","Ia juga memetik satu kubis hijau.","Lalu Lulu pulang dan memasak sup untuk Nenek."],"qs":[
+{"q":"Siapa yang bangun pagi sekali?","o":[["Kelinci Lulu","🐰"],["Kucing Mimi","🐱"],["Bebek Dudu","🦆"]],"a":0,"k":"Kelinci Lulu"},
+{"q":"Ke mana Kelinci Lulu pergi?","o":[["Kebun","🥕"],["Sawah","🌾"],["Taman","🌳"]],"a":0,"k":"kebun"},
+{"q":"Ada berapa wortel?","o":[["3","●●●"],["4","●●●●"],["5","●●●●●"]],"a":1,"k":"empat wortel"},
+{"q":"Apa warna wortel itu?","o":[["Oranye","c:#f57c00"],["Ungu","c:#8e24aa"],["Putih","c:#f4f4f4"]],"a":0,"k":"oranye"},
+{"q":"Apa lagi yang dipetik Lulu?","o":[["Kubis","🥬"],["Apel","🍎"],["Jagung","🌽"]],"a":0,"k":"kubis"},
+{"q":"Sup itu untuk siapa?","o":[["Nenek","👵"],["Ayah","👨"],["Teman","🧒"]],"a":0,"k":"Nenek"}]},
+{"id":"b2","lvl":2,"scene":"🌧️🐘🌿🐸🐸🐸🌈","s":["Hujan turun deras di hutan.","Gajah Gugu berlari mencari tempat berteduh.","Ia bertemu tiga katak kecil di bawah daun besar.","Katak yang paling kecil berwarna kuning.","Gugu memayungi mereka dengan daun pisang yang lebar.","Setelah hujan reda, semua melihat pelangi."],"qs":[
+{"q":"Siapa yang berlari mencari tempat berteduh?","o":[["Gajah Gugu","🐘"],["Singa Sisi","🦁"],["Monyet Momo","🐵"]],"a":0,"k":"Gajah Gugu"},
+{"q":"Cuaca apa yang terjadi di hutan?","o":[["Hujan","🌧️"],["Salju","❄️"],["Angin","💨"]],"a":0,"k":"hujan turun"},
+{"q":"Gugu bertemu berapa katak?","o":[["2","●●"],["3","●●●"],["4","●●●●"]],"a":1,"k":"tiga katak"},
+{"q":"Apa warna katak yang paling kecil?","o":[["Hijau","c:#1e9e5a"],["Kuning","c:#f4c20d"],["Merah","c:#e53935"]],"a":1,"k":"kuning"},
+{"q":"Gugu memayungi katak dengan apa?","o":[["Daun pisang","🌿"],["Topi","🎩"],["Payung","☂️"]],"a":0,"k":"daun pisang"},
+{"q":"Apa yang mereka lihat setelah hujan reda?","o":[["Pelangi","🌈"],["Bintang","⭐"],["Bulan","🌙"]],"a":0,"k":"pelangi"}]},
+{"id":"c1","lvl":3,"scene":"🚆🧒🪟🐦🐦🐦🐦🐦🏠🥖🥖🦒","s":["Pagi ini Rafi naik kereta ke Bandung bersama Kakak.","Kereta berangkat pukul tujuh.","Di dalam kereta Rafi duduk dekat jendela.","Ia melihat lima burung putih terbang di atas sawah.","Di dekat sawah ada sebuah rumah kecil berwarna hijau.","Sampai di Bandung, Rafi dan Kakak makan dua roti cokelat.","Setelah itu mereka naik angkot menuju kebun binatang.","Di sana Rafi melihat jerapah yang sangat tinggi."],"qs":[
+{"q":"Rafi pergi ke Bandung bersama siapa?","o":[["Kakak","🧑"],["Ayah","👨"],["Ibu","👩"]],"a":0,"k":"Kakak"},
+{"q":"Rafi naik apa ke Bandung?","o":[["Bus","🚌"],["Kereta","🚆"],["Kapal","🚢"]],"a":1,"k":"kereta"},
+{"q":"Di kereta Rafi duduk dekat apa?","o":[["Pintu","🚪"],["Lampu","💡"],["Jendela","🪟"]],"a":2,"k":"jendela"},
+{"q":"Ada berapa burung putih?","o":[["4","●●●●"],["5","●●●●●"],["6","●●●●●●"]],"a":1,"k":"lima burung"},
+{"q":"Apa warna rumah kecil itu?","o":[["Merah","c:#e53935"],["Hijau","c:#1e9e5a"],["Kuning","c:#f4c20d"]],"a":1,"k":"hijau"},
+{"q":"Rafi dan Kakak makan berapa roti?","o":[["1","●"],["2","●●"],["3","●●●"]],"a":1,"k":"dua roti"},
+{"q":"Hewan apa yang dilihat Rafi di kebun binatang?","o":[["Gajah","🐘"],["Singa","🦁"],["Jerapah","🦒"]],"a":2,"k":"jerapah"}]}
+]}

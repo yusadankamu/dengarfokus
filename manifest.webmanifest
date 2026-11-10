@@ -1,0 +1,17 @@
+{
+  "name": "Dengar Fokus",
+  "short_name": "Dengar Fokus",
+  "description": "Latihan fokus mendengar lewat cerita pendek",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#eaf3ff",
+  "theme_color": "#2457e6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
